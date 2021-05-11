@@ -1,5 +1,5 @@
 # Getting Ready for Physics Class
-# Use functions to calculate some fundaental physical properties.
+# Use functions to calculate some fundamental physical properties.
 
 
 # See "Use the Force"
